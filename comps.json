@@ -1,0 +1,925 @@
+{
+  "_comment": "Sinh tự động từ comps_stats.json (540 trận challenger VN). Chạy lại scripts/merge_stats.mjs sau mỗi lần aggregate.",
+  "patch": "Set17-riot",
+  "source": "riot",
+  "comps": [
+    {
+      "id": "tft17astronaut-tft17summontrait-tft17bard",
+      "name": "Tinh Linh Chuông Du Mục - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.567,
+        "top4Rate": 0.833,
+        "winRate": 0.283,
+        "playRate": 0.014,
+        "games": 60
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_Rammus",
+        "TFT17_Lissandra",
+        "TFT17_Veigar",
+        "TFT17_Sona",
+        "TFT17_Poppy"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_SummonTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Găng Bảo Thạch",
+          "Trượng Hư Vô",
+          "Diệt Khổng Lồ"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17darkstar-tft17bard",
+      "name": "Tinh Linh Chuông Hắc Tinh - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 2.708,
+        "top4Rate": 0.917,
+        "winRate": 0.25,
+        "playRate": 0.0056,
+        "games": 24
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_Rammus",
+        "TFT17_Jhin",
+        "TFT17_Gnar",
+        "TFT17_Poppy",
+        "TFT17_Karma",
+        "TFT17_Mordekaiser"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_DarkStar"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Găng Bảo Thạch",
+          "Diệt Khổng Lồ",
+          "Trượng Hư Vô"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17stargazerserpent-tft17drx-tft17jhin",
+      "name": "Chiêm Tinh N.O.V.A. - Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.038,
+        "top4Rate": 0.769,
+        "winRate": 0.269,
+        "playRate": 0.0061,
+        "games": 26
+      },
+      "coreUnits": [
+        "TFT17_Maokai",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_Jhin",
+        "TFT17_Aatrox",
+        "TFT17_Jax",
+        "TFT17_TahmKench",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Serpent",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Kiếm Tử Thần",
+          "Vô Cực Kiếm",
+          "Cuồng Đao Guinsoo"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17meleetrait-tft17hptank-tft17fiora",
+      "name": "Toán Cướp Đấu Sĩ - Fiora",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.151,
+        "top4Rate": 0.803,
+        "winRate": 0.204,
+        "playRate": 0.0354,
+        "games": 152
+      },
+      "coreUnits": [
+        "TFT17_TahmKench",
+        "TFT17_Fiora",
+        "TFT17_Urgot",
+        "TFT17_Maokai",
+        "TFT17_MasterYi",
+        "TFT17_Gragas",
+        "TFT17_Kindred",
+        "TFT17_Belveth"
+      ],
+      "carryUnits": [
+        "TFT17_Fiora"
+      ],
+      "keyTraits": [
+        "TFT17_MeleeTrait",
+        "TFT17_HPTank"
+      ],
+      "carryItems": {
+        "TFT17_Fiora": [
+          "Áo Choàng Bóng Tối",
+          "Móng Vuốt Sterak",
+          "Bàn Tay Công Lý"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17stargazershield-tft17drx-tft17jhin",
+      "name": "Chiêm Tinh N.O.V.A. - Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.2,
+        "top4Rate": 0.75,
+        "winRate": 0.25,
+        "playRate": 0.0047,
+        "games": 20
+      },
+      "coreUnits": [
+        "TFT17_Aatrox",
+        "TFT17_Maokai",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_TahmKench",
+        "TFT17_Jhin",
+        "TFT17_Jax",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Shield",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Vô Cực Kiếm",
+          "Kiếm Tử Thần",
+          "Chùy Đoản Côn"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17darkstar-tft17jhin",
+      "name": "Tinh Linh Chuông Hắc Tinh - Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.241,
+        "top4Rate": 0.793,
+        "winRate": 0.138,
+        "playRate": 0.0068,
+        "games": 29
+      },
+      "coreUnits": [
+        "TFT17_Jhin",
+        "TFT17_Rammus",
+        "TFT17_Gnar",
+        "TFT17_Bard",
+        "TFT17_Poppy",
+        "TFT17_Mordekaiser",
+        "TFT17_Karma"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_DarkStar"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Cung Xanh",
+          "Vô Cực Kiếm"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17flextrait-tft17bard",
+      "name": "Tinh Linh Chuông Viễn Chinh - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.29,
+        "top4Rate": 0.774,
+        "winRate": 0.161,
+        "playRate": 0.0072,
+        "games": 31
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_Rammus",
+        "TFT17_Poppy",
+        "TFT17_Karma",
+        "TFT17_Galio",
+        "TFT17_Gnar",
+        "TFT17_Jhin"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_FlexTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Găng Bảo Thạch",
+          "Trượng Hư Vô",
+          "Bùa Đỏ"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17shieldtank-tft17bard",
+      "name": "Tinh Linh Chuông Tiên Phong - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.292,
+        "top4Rate": 0.708,
+        "winRate": 0.292,
+        "playRate": 0.0056,
+        "games": 24
+      },
+      "coreUnits": [
+        "TFT17_Mordekaiser",
+        "TFT17_Bard",
+        "TFT17_Illaoi",
+        "TFT17_Sona",
+        "TFT17_Karma",
+        "TFT17_Blitzcrank"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_ShieldTank"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Găng Bảo Thạch",
+          "Diệt Khổng Lồ",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17resisttank-tft17bard",
+      "name": "Tinh Linh Chuông Can Trường - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.3,
+        "top4Rate": 0.7,
+        "winRate": 0.25,
+        "playRate": 0.0047,
+        "games": 20
+      },
+      "coreUnits": [
+        "TFT17_Rammus",
+        "TFT17_Poppy",
+        "TFT17_Bard",
+        "TFT17_Shen",
+        "TFT17_Corki",
+        "TFT17_Fizz",
+        "TFT17_Gnar"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_ResistTank"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon",
+          "Bùa Xanh"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17spacegroove-tft17rangedtrait-tft17nami",
+      "name": "Hành Tinh Bắn Tỉa - Nami",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.385,
+        "top4Rate": 0.692,
+        "winRate": 0.192,
+        "playRate": 0.0061,
+        "games": 26
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Samira",
+        "TFT17_Nami",
+        "TFT17_Nasus",
+        "TFT17_Gwen",
+        "TFT17_Jhin",
+        "TFT17_Blitzcrank",
+        "TFT17_Shen"
+      ],
+      "carryUnits": [
+        "TFT17_Nami"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_RangedTrait"
+      ],
+      "carryItems": {
+        "TFT17_Nami": [
+          "Găng Bảo Thạch",
+          "Quỷ Thư Morello",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      "levelToCommit": 8,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astrait-tft17drx-tft17kindred",
+      "name": "Thách Đấu N.O.V.A. - Kindred",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.414,
+        "top4Rate": 0.724,
+        "winRate": 0.172,
+        "playRate": 0.0068,
+        "games": 29
+      },
+      "coreUnits": [
+        "TFT17_Kindred",
+        "TFT17_Belveth",
+        "TFT17_Maokai",
+        "TFT17_Akali",
+        "TFT17_MissFortune",
+        "TFT17_Rhaast",
+        "TFT17_Aatrox",
+        "TFT17_Jinx"
+      ],
+      "carryUnits": [
+        "TFT17_Kindred"
+      ],
+      "keyTraits": [
+        "TFT17_ASTrait",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Kindred": [
+          "Cuồng Đao Guinsoo",
+          "Thịnh Nộ Thủy Quái",
+          "Diệt Khổng Lồ"
+        ]
+      },
+      "levelToCommit": 8,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astronaut-tft17flextrait-tft17jhin",
+      "name": "Tinh Linh Chuông Viễn Chinh - Jhin",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.5,
+        "top4Rate": 0.682,
+        "winRate": 0.091,
+        "playRate": 0.0051,
+        "games": 22
+      },
+      "coreUnits": [
+        "TFT17_Gnar",
+        "TFT17_Rammus",
+        "TFT17_Jhin",
+        "TFT17_Galio",
+        "TFT17_Karma",
+        "TFT17_Poppy",
+        "TFT17_Bard"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Astronaut",
+        "TFT17_FlexTrait"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Cung Xanh",
+          "Diệt Khổng Lồ",
+          "Vô Cực Kiếm"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17spacegroove-tft17aptrait-tft17blitzcrank",
+      "name": "Hành Tinh Nhân Bản - Blitzcrank",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.561,
+        "top4Rate": 0.659,
+        "winRate": 0.244,
+        "playRate": 0.0096,
+        "games": 41
+      },
+      "coreUnits": [
+        "TFT17_Ornn",
+        "TFT17_Blitzcrank",
+        "TFT17_Nami",
+        "TFT17_Nasus",
+        "TFT17_Pantheon",
+        "TFT17_Gwen",
+        "TFT17_Riven",
+        "TFT17_TahmKench"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_APTrait"
+      ],
+      "carryItems": {
+        "TFT17_Blitzcrank": [
+          "Găng Bảo Thạch",
+          "Trượng Hư Vô",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astrait-tft17drx-tft17belveth",
+      "name": "Thách Đấu N.O.V.A. - Bel'Veth",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.63,
+        "top4Rate": 0.704,
+        "winRate": 0.074,
+        "playRate": 0.0063,
+        "games": 27
+      },
+      "coreUnits": [
+        "TFT17_Belveth",
+        "TFT17_Akali",
+        "TFT17_Jinx",
+        "TFT17_Maokai",
+        "TFT17_Kindred",
+        "TFT17_RekSai",
+        "TFT17_Briar",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Belveth"
+      ],
+      "keyTraits": [
+        "TFT17_ASTrait",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Belveth": [
+          "Thịnh Nộ Thủy Quái",
+          "Áo Choàng Thủy Ngân",
+          "Diệt Khổng Lồ"
+        ]
+      },
+      "levelToCommit": 6,
+      "playstyle": "Reroll giá rẻ — đánh sớm, dồn lên 3 sao carry.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17drx-tft17meleetrait-tft17fiora",
+      "name": "N.O.V.A. Toán Cướp - Fiora",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.632,
+        "top4Rate": 0.661,
+        "winRate": 0.251,
+        "playRate": 0.0398,
+        "games": 171
+      },
+      "coreUnits": [
+        "TFT17_Fiora",
+        "TFT17_Akali",
+        "TFT17_Aatrox",
+        "TFT17_Shen",
+        "TFT17_Vex",
+        "TFT17_Blitzcrank",
+        "TFT17_Nunu",
+        "TFT17_Graves"
+      ],
+      "carryUnits": [
+        "TFT17_Fiora"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_MeleeTrait"
+      ],
+      "carryItems": {
+        "TFT17_Fiora": [
+          "Găng Đạo Tặc",
+          "Áo Choàng Bóng Tối",
+          "Móng Vuốt Sterak"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17shieldtank-tft17flextrait-tft17bard",
+      "name": "Tiên Phong Viễn Chinh - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.66,
+        "top4Rate": 0.66,
+        "winRate": 0.149,
+        "playRate": 0.011,
+        "games": 47
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_Mordekaiser",
+        "TFT17_Illaoi",
+        "TFT17_Karma",
+        "TFT17_Sona",
+        "TFT17_Blitzcrank"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_FlexTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Găng Bảo Thạch",
+          "Diệt Khổng Lồ",
+          "Chùy Đoản Côn"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17astrait-tft17drx-tft17maokai",
+      "name": "Thách Đấu N.O.V.A. - Maokai",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.739,
+        "top4Rate": 0.652,
+        "winRate": 0.043,
+        "playRate": 0.0054,
+        "games": 23
+      },
+      "coreUnits": [
+        "TFT17_Belveth",
+        "TFT17_Maokai",
+        "TFT17_Kindred",
+        "TFT17_Jinx",
+        "TFT17_Akali",
+        "TFT17_RekSai",
+        "TFT17_Rhaast",
+        "TFT17_Briar"
+      ],
+      "carryUnits": [
+        "TFT17_Maokai"
+      ],
+      "keyTraits": [
+        "TFT17_ASTrait",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Maokai": [
+          "Giáp Máu Warmog",
+          "Thú Tượng Thạch Giáp",
+          "Áo Choàng Lửa"
+        ]
+      },
+      "levelToCommit": 7,
+      "playstyle": "Reroll/flex quanh lv7, cân giữa tempo và trần sức mạnh.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17shieldtank-tft17summontrait-tft17bard",
+      "name": "Tiên Phong Du Mục - Bard",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.776,
+        "top4Rate": 0.645,
+        "winRate": 0.204,
+        "playRate": 0.0354,
+        "games": 152
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_Illaoi",
+        "TFT17_Mordekaiser",
+        "TFT17_Sona",
+        "TFT17_Blitzcrank",
+        "TFT17_Karma"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_SummonTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon",
+          "Diệt Khổng Lồ"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17drx-tft17hptank-tft17fiora",
+      "name": "N.O.V.A. Đấu Sĩ - Fiora",
+      "tier": "S",
+      "stats": {
+        "avgPlacement": 3.778,
+        "top4Rate": 0.694,
+        "winRate": 0.194,
+        "playRate": 0.0084,
+        "games": 36
+      },
+      "coreUnits": [
+        "TFT17_Fiora",
+        "TFT17_TahmKench",
+        "TFT17_Akali",
+        "TFT17_Maokai",
+        "TFT17_Aatrox",
+        "TFT17_Shen",
+        "TFT17_Graves",
+        "TFT17_Vex"
+      ],
+      "carryUnits": [
+        "TFT17_Fiora"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_HPTank"
+      ],
+      "carryItems": {
+        "TFT17_Fiora": [
+          "Áo Choàng Bóng Tối",
+          "Găng Đạo Tặc",
+          "Bàn Tay Công Lý"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17shieldtank-tft17manatrait-tft17bard",
+      "name": "Tiên Phong Dẫn Truyền - Bard",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 3.943,
+        "top4Rate": 0.514,
+        "winRate": 0.257,
+        "playRate": 0.0082,
+        "games": 35
+      },
+      "coreUnits": [
+        "TFT17_Bard",
+        "TFT17_Mordekaiser",
+        "TFT17_Illaoi",
+        "TFT17_Nunu",
+        "TFT17_Blitzcrank",
+        "TFT17_Sona"
+      ],
+      "carryUnits": [
+        "TFT17_Bard"
+      ],
+      "keyTraits": [
+        "TFT17_ShieldTank",
+        "TFT17_ManaTrait"
+      ],
+      "carryItems": {
+        "TFT17_Bard": [
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon",
+          "Trượng Hư Vô"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17spacegroove-tft17shieldtank-tft17blitzcrank",
+      "name": "Hành Tinh Tiên Phong - Blitzcrank",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4,
+        "top4Rate": 0.625,
+        "winRate": 0.042,
+        "playRate": 0.0056,
+        "games": 24
+      },
+      "coreUnits": [
+        "TFT17_Nami",
+        "TFT17_Ornn",
+        "TFT17_Blitzcrank",
+        "TFT17_Nasus",
+        "TFT17_Samira",
+        "TFT17_Gwen",
+        "TFT17_Nunu",
+        "TFT17_Teemo"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "keyTraits": [
+        "TFT17_SpaceGroove",
+        "TFT17_ShieldTank"
+      ],
+      "carryItems": {
+        "TFT17_Blitzcrank": [
+          "Găng Đạo Tặc",
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17stargazermountain-tft17drx-tft17jhin",
+      "name": "Chiêm Tinh N.O.V.A. - Jhin",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.143,
+        "top4Rate": 0.619,
+        "winRate": 0.19,
+        "playRate": 0.0049,
+        "games": 21
+      },
+      "coreUnits": [
+        "TFT17_Aatrox",
+        "TFT17_Jax",
+        "TFT17_Maokai",
+        "TFT17_Nunu",
+        "TFT17_Xayah",
+        "TFT17_Jhin",
+        "TFT17_TahmKench",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Jhin"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Mountain",
+        "TFT17_DRX"
+      ],
+      "carryItems": {
+        "TFT17_Jhin": [
+          "Vô Cực Kiếm",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17drx-tft17meleetrait-tft17blitzcrank",
+      "name": "N.O.V.A. Toán Cướp - Blitzcrank",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.206,
+        "top4Rate": 0.54,
+        "winRate": 0.19,
+        "playRate": 0.0147,
+        "games": 63
+      },
+      "coreUnits": [
+        "TFT17_Blitzcrank",
+        "TFT17_Fiora",
+        "TFT17_Akali",
+        "TFT17_Shen",
+        "TFT17_Aatrox",
+        "TFT17_Vex",
+        "TFT17_Nunu",
+        "TFT17_Graves"
+      ],
+      "carryUnits": [
+        "TFT17_Blitzcrank"
+      ],
+      "keyTraits": [
+        "TFT17_DRX",
+        "TFT17_MeleeTrait"
+      ],
+      "carryItems": {
+        "TFT17_Blitzcrank": [
+          "Găng Đạo Tặc",
+          "Bàn Tay Công Lý"
+        ]
+      },
+      "levelToCommit": 9,
+      "playstyle": "Fast level, giữ máu, mạnh late — ưu tiên hit carry giá cao.",
+      "positioningHint": ""
+    },
+    {
+      "id": "tft17stargazermedallion-tft17aptrait-tft17maokai",
+      "name": "Chiêm Tinh Nhân Bản - Maokai",
+      "tier": "A",
+      "stats": {
+        "avgPlacement": 4.222,
+        "top4Rate": 0.5,
+        "winRate": 0.222,
+        "playRate": 0.0042,
+        "games": 18
+      },
+      "coreUnits": [
+        "TFT17_TwistedFate",
+        "TFT17_Jax",
+        "TFT17_Milio",
+        "TFT17_Pantheon",
+        "TFT17_Maokai",
+        "TFT17_Lulu",
+        "TFT17_Aatrox",
+        "TFT17_Rhaast"
+      ],
+      "carryUnits": [
+        "TFT17_Maokai"
+      ],
+      "keyTraits": [
+        "TFT17_Stargazer_Medallion",
+        "TFT17_APTrait"
+      ],
+      "carryItems": {
+        "TFT17_Maokai": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog",
+          "Găng Đạo Tặc"
+        ]
+      },
+      "levelToCommit": 7,
+      "playstyle": "Reroll/flex quanh lv7, cân giữa tempo và trần sức mạnh.",
+      "positioningHint": ""
+    }
+  ]
+}
