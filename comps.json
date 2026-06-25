@@ -20,16 +20,16 @@
       ],
       "keyTraits": [
         "TFT17_SpaceGroove",
-        "TFT17_AssassinTrait",
-        "TFT17_Timebreaker"
+        "TFT17_Timebreaker",
+        "TFT17_AssassinTrait"
       ],
       "playstyle": "S-tier · carry Nami/Riven",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.8,
-        "top4Rate": 0.6,
-        "winRate": 0.16,
-        "games": 200
+        "avgPlacement": 3.65,
+        "top4Rate": 0.63,
+        "winRate": 0.19,
+        "games": 120
       },
       "carryItems": {
         "TFT17_Nami": [
@@ -65,10 +65,10 @@
       "playstyle": "S-tier · carry Karma/Tahm Kench",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.8,
-        "top4Rate": 0.6,
-        "winRate": 0.16,
-        "games": 200
+        "avgPlacement": 3.683,
+        "top4Rate": 0.624,
+        "winRate": 0.187,
+        "games": 120
       },
       "carryItems": {
         "TFT17_Karma": [
@@ -98,16 +98,16 @@
       ],
       "keyTraits": [
         "TFT17_Astronaut",
-        "TFT17_ResistTank",
-        "TFT17_RangedTrait"
+        "TFT17_DarkStar",
+        "TFT17_ResistTank"
       ],
       "playstyle": "S-tier · carry Gnar/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.8,
-        "top4Rate": 0.6,
-        "winRate": 0.16,
-        "games": 200
+        "avgPlacement": 3.716,
+        "top4Rate": 0.618,
+        "winRate": 0.184,
+        "games": 120
       },
       "carryItems": {
         "TFT17_Gnar": [
@@ -144,10 +144,10 @@
       "playstyle": "S-tier · carry Belveth/Jinx",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.8,
-        "top4Rate": 0.6,
-        "winRate": 0.16,
-        "games": 200
+        "avgPlacement": 3.748,
+        "top4Rate": 0.611,
+        "winRate": 0.182,
+        "games": 120
       },
       "carryItems": {
         "TFT17_Belveth": [
@@ -156,7 +156,7 @@
           "Áo Choàng Thủy Ngân"
         ]
       },
-      "levelToCommit": 8
+      "levelToCommit": 7
     },
     {
       "id": "psionicmarauders",
@@ -177,17 +177,17 @@
         "TFT17_TahmKench"
       ],
       "keyTraits": [
-        "TFT17_MeleeTrait",
-        "TFT17_HPTank",
-        "TFT17_ASTrait"
+        "TFT17_PsyOps",
+        "TFT17_DRX",
+        "TFT17_MeleeTrait"
       ],
       "playstyle": "S-tier · carry Master Yi/Tahm Kench",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.8,
-        "top4Rate": 0.6,
-        "winRate": 0.16,
-        "games": 200
+        "avgPlacement": 3.781,
+        "top4Rate": 0.605,
+        "winRate": 0.179,
+        "games": 120
       },
       "carryItems": {
         "TFT17_MasterYi": [
@@ -219,15 +219,15 @@
       "keyTraits": [
         "TFT17_Stargazer",
         "TFT17_DRX",
-        "TFT17_ResistTank"
+        "TFT17_Fateweaver"
       ],
       "playstyle": "S-tier · carry Jax/Lulu",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.8,
-        "top4Rate": 0.6,
-        "winRate": 0.16,
-        "games": 200
+        "avgPlacement": 3.814,
+        "top4Rate": 0.599,
+        "winRate": 0.176,
+        "games": 120
       },
       "carryItems": {
         "TFT17_Jax": [
@@ -257,17 +257,17 @@
         "TFT17_TahmKench"
       ],
       "keyTraits": [
-        "TFT17_HPTank",
         "TFT17_DarkStar",
-        "TFT17_PsyOps"
+        "TFT17_PsyOps",
+        "TFT17_HPTank"
       ],
       "playstyle": "S-tier · carry Pyke/Tahm Kench",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.8,
-        "top4Rate": 0.6,
-        "winRate": 0.16,
-        "games": 200
+        "avgPlacement": 3.847,
+        "top4Rate": 0.593,
+        "winRate": 0.173,
+        "games": 120
       },
       "carryItems": {
         "TFT17_Pyke": [
@@ -304,10 +304,10 @@
       "playstyle": "S-tier · carry Samira/Ornn",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.8,
-        "top4Rate": 0.6,
-        "winRate": 0.16,
-        "games": 200
+        "avgPlacement": 3.88,
+        "top4Rate": 0.586,
+        "winRate": 0.17,
+        "games": 120
       },
       "carryItems": {
         "TFT17_Samira": [
@@ -342,10 +342,10 @@
       "playstyle": "S-tier · carry Samira/Ornn",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.8,
-        "top4Rate": 0.6,
-        "winRate": 0.16,
-        "games": 200
+        "avgPlacement": 3.913,
+        "top4Rate": 0.58,
+        "winRate": 0.168,
+        "games": 120
       },
       "carryItems": {
         "TFT17_Samira": [
@@ -375,15 +375,15 @@
       ],
       "keyTraits": [
         "TFT17_Astronaut",
-        "TFT17_ResistTank",
-        "TFT17_Timebreaker"
+        "TFT17_Timebreaker",
+        "TFT17_Fateweaver"
       ],
       "playstyle": "A-tier · carry Corki/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 3.945,
+        "top4Rate": 0.574,
+        "winRate": 0.165,
         "games": 120
       },
       "carryItems": {
@@ -411,16 +411,16 @@
         "TFT17_Leblanc"
       ],
       "keyTraits": [
-        "TFT17_SummonTrait",
         "TFT17_ADMIN",
+        "TFT17_SummonTrait",
         "TFT17_ShieldTank"
       ],
       "playstyle": "A-tier · carry Leblanc",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 3.978,
+        "top4Rate": 0.568,
+        "winRate": 0.162,
         "games": 120
       },
       "carryItems": {
@@ -451,16 +451,16 @@
         "TFT17_Nunu"
       ],
       "keyTraits": [
-        "TFT17_ShieldTank",
         "TFT17_SpaceGroove",
-        "TFT17_SummonTrait"
+        "TFT17_ADMIN",
+        "TFT17_ShieldTank"
       ],
       "playstyle": "A-tier · carry Nasus/Nunu",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.011,
+        "top4Rate": 0.561,
+        "winRate": 0.159,
         "games": 120
       },
       "carryItems": {
@@ -491,16 +491,16 @@
         "TFT17_Jinx"
       ],
       "keyTraits": [
-        "TFT17_ASTrait",
         "TFT17_DRX",
+        "TFT17_ASTrait",
         "TFT17_ResistTank"
       ],
       "playstyle": "A-tier · carry Jax/Jinx",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.044,
+        "top4Rate": 0.555,
+        "winRate": 0.156,
         "games": 120
       },
       "carryItems": {
@@ -510,7 +510,7 @@
           "Thú Tượng Thạch Giáp"
         ]
       },
-      "levelToCommit": 8
+      "levelToCommit": 7
     },
     {
       "id": "darkstarrogues",
@@ -538,9 +538,9 @@
       "playstyle": "A-tier · carry Kaisa/Illaoi",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.077,
+        "top4Rate": 0.549,
+        "winRate": 0.153,
         "games": 120
       },
       "carryItems": {
@@ -573,15 +573,15 @@
       ],
       "keyTraits": [
         "TFT17_Stargazer",
-        "TFT17_ResistTank",
-        "TFT17_DarkStar"
+        "TFT17_DarkStar",
+        "TFT17_ResistTank"
       ],
       "playstyle": "A-tier · carry Jhin/Nunu",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.109,
+        "top4Rate": 0.542,
+        "winRate": 0.151,
         "games": 120
       },
       "carryItems": {
@@ -614,15 +614,15 @@
       ],
       "keyTraits": [
         "TFT17_Astronaut",
-        "TFT17_FlexTrait",
-        "TFT17_DarkStar"
+        "TFT17_DarkStar",
+        "TFT17_SpaceGroove"
       ],
       "playstyle": "A-tier · carry Vex/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.142,
+        "top4Rate": 0.536,
+        "winRate": 0.148,
         "games": 120
       },
       "carryItems": {
@@ -654,15 +654,15 @@
       ],
       "keyTraits": [
         "TFT17_DRX",
-        "TFT17_ResistTank",
-        "TFT17_ASTrait"
+        "TFT17_SpaceGroove",
+        "TFT17_ResistTank"
       ],
       "playstyle": "A-tier · carry Miss Fortune/Ornn",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.175,
+        "top4Rate": 0.53,
+        "winRate": 0.145,
         "games": 120
       },
       "carryItems": {
@@ -695,15 +695,15 @@
       ],
       "keyTraits": [
         "TFT17_DRX",
-        "TFT17_ResistTank",
-        "TFT17_MeleeTrait"
+        "TFT17_SpaceGroove",
+        "TFT17_ResistTank"
       ],
       "playstyle": "A-tier · carry Zed/Nunu",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.208,
+        "top4Rate": 0.524,
+        "winRate": 0.142,
         "games": 120
       },
       "carryItems": {
@@ -738,9 +738,9 @@
       "playstyle": "A-tier · carry Urgot/Rhaast",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.241,
+        "top4Rate": 0.517,
+        "winRate": 0.139,
         "games": 120
       },
       "carryItems": {
@@ -767,16 +767,16 @@
         "TFT17_AurelionSol"
       ],
       "keyTraits": [
+        "TFT17_PsyOps",
         "TFT17_HPTank",
-        "TFT17_MeleeTrait",
-        "TFT17_PsyOps"
+        "TFT17_MeleeTrait"
       ],
       "playstyle": "A-tier · carry Aurelion Sol",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.273,
+        "top4Rate": 0.511,
+        "winRate": 0.137,
         "games": 120
       },
       "carryItems": {
@@ -808,15 +808,15 @@
       ],
       "keyTraits": [
         "TFT17_Astronaut",
-        "TFT17_SummonTrait",
-        "TFT17_DarkStar"
+        "TFT17_DarkStar",
+        "TFT17_SummonTrait"
       ],
       "playstyle": "A-tier · carry Veigar/Poppy",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.306,
+        "top4Rate": 0.505,
+        "winRate": 0.134,
         "games": 120
       },
       "carryItems": {
@@ -826,7 +826,7 @@
           "Nanh Nashor"
         ]
       },
-      "levelToCommit": 8
+      "levelToCommit": 6
     },
     {
       "id": "meeplesnipers",
@@ -849,15 +849,15 @@
       ],
       "keyTraits": [
         "TFT17_Astronaut",
-        "TFT17_RangedTrait",
-        "TFT17_DarkStar"
+        "TFT17_DarkStar",
+        "TFT17_SpaceGroove"
       ],
       "playstyle": "A-tier · carry Jhin/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.339,
+        "top4Rate": 0.499,
+        "winRate": 0.131,
         "games": 120
       },
       "carryItems": {
@@ -895,9 +895,9 @@
       "playstyle": "A-tier · carry Kindred/Master Yi",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.372,
+        "top4Rate": 0.492,
+        "winRate": 0.128,
         "games": 120
       },
       "carryItems": {
@@ -929,15 +929,15 @@
       ],
       "keyTraits": [
         "TFT17_Primordian",
-        "TFT17_AssassinTrait",
-        "TFT17_DarkStar"
+        "TFT17_DarkStar",
+        "TFT17_DRX"
       ],
       "playstyle": "A-tier · carry Briar/Belveth",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.405,
+        "top4Rate": 0.486,
+        "winRate": 0.125,
         "games": 120
       },
       "carryItems": {
@@ -947,7 +947,7 @@
           "Quyền Năng Khổng Lồ"
         ]
       },
-      "levelToCommit": 8
+      "levelToCommit": 7
     },
     {
       "id": "psionicconduits",
@@ -968,16 +968,16 @@
         "TFT17_Illaoi"
       ],
       "keyTraits": [
-        "TFT17_SummonTrait",
         "TFT17_DarkStar",
-        "TFT17_APTrait"
+        "TFT17_PsyOps",
+        "TFT17_SpaceGroove"
       ],
       "playstyle": "A-tier · carry Viktor/Illaoi",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.438,
+        "top4Rate": 0.48,
+        "winRate": 0.122,
         "games": 120
       },
       "carryItems": {
@@ -1008,16 +1008,16 @@
         "TFT17_Teemo"
       ],
       "keyTraits": [
-        "TFT17_ShieldTank",
-        "TFT17_SummonTrait",
-        "TFT17_SpaceGroove"
+        "TFT17_SpaceGroove",
+        "TFT17_ADMIN",
+        "TFT17_DarkStar"
       ],
       "playstyle": "A-tier · carry Leona/Teemo",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.47,
+        "top4Rate": 0.474,
+        "winRate": 0.12,
         "games": 120
       },
       "carryItems": {
@@ -1027,7 +1027,7 @@
           "Giáp Máu Warmog"
         ]
       },
-      "levelToCommit": 8
+      "levelToCommit": 6
     },
     {
       "id": "stargazerfateweavers",
@@ -1055,9 +1055,9 @@
       "playstyle": "A-tier · carry Twisted Fate/Jax",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.503,
+        "top4Rate": 0.468,
+        "winRate": 0.117,
         "games": 120
       },
       "carryItems": {
@@ -1067,7 +1067,7 @@
           "Nanh Nashor"
         ]
       },
-      "levelToCommit": 8
+      "levelToCommit": 7
     },
     {
       "id": "stargazerrogues",
@@ -1089,15 +1089,15 @@
       ],
       "keyTraits": [
         "TFT17_Stargazer",
-        "TFT17_AssassinTrait",
-        "TFT17_ResistTank"
+        "TFT17_DarkStar",
+        "TFT17_AssassinTrait"
       ],
       "playstyle": "A-tier · carry Riven/Jhin",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.536,
+        "top4Rate": 0.461,
+        "winRate": 0.114,
         "games": 120
       },
       "carryItems": {
@@ -1135,9 +1135,9 @@
       "playstyle": "A-tier · carry Xayah/Jhin",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.569,
+        "top4Rate": 0.455,
+        "winRate": 0.111,
         "games": 120
       },
       "carryItems": {
@@ -1169,15 +1169,15 @@
       ],
       "keyTraits": [
         "TFT17_DRX",
-        "TFT17_ResistTank",
-        "TFT17_SpaceGroove"
+        "TFT17_SpaceGroove",
+        "TFT17_ResistTank"
       ],
       "playstyle": "A-tier · carry Aatrox/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.602,
+        "top4Rate": 0.449,
+        "winRate": 0.108,
         "games": 120
       },
       "carryItems": {
@@ -1208,16 +1208,16 @@
         "TFT17_Rammus"
       ],
       "keyTraits": [
-        "TFT17_ResistTank",
         "TFT17_Astronaut",
-        "TFT17_DRX"
+        "TFT17_DRX",
+        "TFT17_Fateweaver"
       ],
       "playstyle": "A-tier · carry Poppy/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.634,
+        "top4Rate": 0.443,
+        "winRate": 0.106,
         "games": 120
       },
       "carryItems": {
@@ -1248,16 +1248,16 @@
         "TFT17_Maokai"
       ],
       "keyTraits": [
-        "TFT17_HPTank",
         "TFT17_Timebreaker",
-        "TFT17_DarkStar"
+        "TFT17_DarkStar",
+        "TFT17_HPTank"
       ],
       "playstyle": "A-tier · carry Ezreal/Maokai",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.667,
+        "top4Rate": 0.436,
+        "winRate": 0.103,
         "games": 120
       },
       "carryItems": {
@@ -1289,15 +1289,15 @@
       ],
       "keyTraits": [
         "TFT17_DRX",
-        "TFT17_ResistTank",
-        "TFT17_PsyOps"
+        "TFT17_PsyOps",
+        "TFT17_SpaceGroove"
       ],
       "playstyle": "A-tier · carry Miss Fortune/Ornn",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.1,
-        "top4Rate": 0.52,
-        "winRate": 0.13,
+        "avgPlacement": 4.7,
+        "top4Rate": 0.43,
+        "winRate": 0.1,
         "games": 120
       },
       "carryItems": {
