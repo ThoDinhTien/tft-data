@@ -26,11 +26,12 @@
       "playstyle": "S-tier · carry Nami/Riven",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.65,
-        "top4Rate": 0.63,
-        "winRate": 0.19,
-        "games": 120
+        "avgPlacement": 3.423,
+        "top4Rate": 0.671,
+        "winRate": 0.218,
+        "games": 19
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_Nami": [
           "Găng Bảo Thạch",
@@ -65,11 +66,12 @@
       "playstyle": "S-tier · carry Karma/Tahm Kench",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.683,
-        "top4Rate": 0.624,
-        "winRate": 0.187,
-        "games": 120
+        "avgPlacement": 4.016,
+        "top4Rate": 0.582,
+        "winRate": 0.108,
+        "games": 21
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_Karma": [
           "Găng Bảo Thạch",
@@ -104,11 +106,12 @@
       "playstyle": "S-tier · carry Gnar/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.716,
-        "top4Rate": 0.618,
-        "winRate": 0.184,
-        "games": 120
+        "avgPlacement": 4.723,
+        "top4Rate": 0.438,
+        "winRate": 0.091,
+        "games": 47
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_Gnar": [
           "Kiếm Tử Thần",
@@ -144,11 +147,12 @@
       "playstyle": "S-tier · carry Belveth/Jinx",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.748,
-        "top4Rate": 0.611,
-        "winRate": 0.182,
-        "games": 120
+        "avgPlacement": 3.659,
+        "top4Rate": 0.664,
+        "winRate": 0.133,
+        "games": 30
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_Belveth": [
           "Diệt Khổng Lồ",
@@ -184,11 +188,12 @@
       "playstyle": "S-tier · carry Master Yi/Tahm Kench",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.781,
-        "top4Rate": 0.605,
-        "winRate": 0.179,
-        "games": 120
+        "avgPlacement": 4.824,
+        "top4Rate": 0.415,
+        "winRate": 0.131,
+        "games": 19
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_MasterYi": [
           "Áo Choàng Bóng Tối",
@@ -224,11 +229,12 @@
       "playstyle": "S-tier · carry Jax/Lulu",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.814,
-        "top4Rate": 0.599,
-        "winRate": 0.176,
-        "games": 120
+        "avgPlacement": 3.883,
+        "top4Rate": 0.572,
+        "winRate": 0.172,
+        "games": 24
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_Jax": [
           "Huyết Kiếm",
@@ -269,6 +275,7 @@
         "winRate": 0.173,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Pyke": [
           "Áo Choàng Bóng Tối",
@@ -304,11 +311,12 @@
       "playstyle": "S-tier · carry Samira/Ornn",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.88,
-        "top4Rate": 0.586,
-        "winRate": 0.17,
-        "games": 120
+        "avgPlacement": 4.585,
+        "top4Rate": 0.489,
+        "winRate": 0.118,
+        "games": 27
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_Samira": [
           "Kiếm Tử Thần",
@@ -342,11 +350,12 @@
       "playstyle": "S-tier · carry Samira/Ornn",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.913,
-        "top4Rate": 0.58,
-        "winRate": 0.168,
-        "games": 120
+        "avgPlacement": 4.321,
+        "top4Rate": 0.495,
+        "winRate": 0.154,
+        "games": 16
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_Samira": [
           "Kiếm Tử Thần",
@@ -381,11 +390,12 @@
       "playstyle": "A-tier · carry Corki/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 3.945,
-        "top4Rate": 0.574,
-        "winRate": 0.165,
-        "games": 120
+        "avgPlacement": 4.736,
+        "top4Rate": 0.435,
+        "winRate": 0.09,
+        "games": 47
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_Corki": [
           "Bùa Xanh",
@@ -423,6 +433,7 @@
         "winRate": 0.162,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Leblanc": [
           "Diệt Khổng Lồ",
@@ -463,6 +474,7 @@
         "winRate": 0.159,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Nasus": [
           "Huyết Kiếm",
@@ -503,6 +515,7 @@
         "winRate": 0.156,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Jax": [
           "Vương Miện Hoàng Gia",
@@ -543,6 +556,7 @@
         "winRate": 0.153,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Kaisa": [
           "Bùa Xanh",
@@ -579,11 +593,12 @@
       "playstyle": "A-tier · carry Jhin/Nunu",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.109,
-        "top4Rate": 0.542,
-        "winRate": 0.151,
-        "games": 120
+        "avgPlacement": 3.674,
+        "top4Rate": 0.649,
+        "winRate": 0.163,
+        "games": 16
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_Jhin": [
           "Kiếm Tử Thần",
@@ -620,11 +635,12 @@
       "playstyle": "A-tier · carry Vex/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.142,
-        "top4Rate": 0.536,
-        "winRate": 0.148,
-        "games": 120
+        "avgPlacement": 4.389,
+        "top4Rate": 0.5,
+        "winRate": 0.13,
+        "games": 54
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_Vex": [
           "Diệt Khổng Lồ",
@@ -660,11 +676,12 @@
       "playstyle": "A-tier · carry Miss Fortune/Ornn",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.175,
-        "top4Rate": 0.53,
-        "winRate": 0.145,
-        "games": 120
+        "avgPlacement": 4.411,
+        "top4Rate": 0.575,
+        "winRate": 0.046,
+        "games": 41
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_MissFortune": [
           "Kiếm Tử Thần",
@@ -706,6 +723,7 @@
         "winRate": 0.142,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Zed": [
           "Áo Choàng Bóng Tối",
@@ -743,6 +761,7 @@
         "winRate": 0.139,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Urgot": [
           "Diệt Khổng Lồ",
@@ -774,11 +793,12 @@
       "playstyle": "A-tier · carry Aurelion Sol",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.273,
-        "top4Rate": 0.511,
-        "winRate": 0.137,
-        "games": 120
+        "avgPlacement": 5.067,
+        "top4Rate": 0.376,
+        "winRate": 0.074,
+        "games": 23
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_AurelionSol": [
           "Găng Bảo Thạch",
@@ -819,6 +839,7 @@
         "winRate": 0.134,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Veigar": [
           "Găng Bảo Thạch",
@@ -855,11 +876,12 @@
       "playstyle": "A-tier · carry Jhin/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.339,
-        "top4Rate": 0.499,
-        "winRate": 0.131,
-        "games": 120
+        "avgPlacement": 3.997,
+        "top4Rate": 0.609,
+        "winRate": 0.116,
+        "games": 21
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_Jhin": [
           "Kiếm Tử Thần",
@@ -895,11 +917,12 @@
       "playstyle": "A-tier · carry Kindred/Master Yi",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.372,
-        "top4Rate": 0.492,
-        "winRate": 0.128,
-        "games": 120
+        "avgPlacement": 4.091,
+        "top4Rate": 0.567,
+        "winRate": 0.099,
+        "games": 27
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_Kindred": [
           "Diệt Khổng Lồ",
@@ -935,11 +958,12 @@
       "playstyle": "A-tier · carry Briar/Belveth",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.405,
-        "top4Rate": 0.486,
-        "winRate": 0.125,
-        "games": 120
+        "avgPlacement": 3.922,
+        "top4Rate": 0.614,
+        "winRate": 0.11,
+        "games": 30
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_Briar": [
           "Huyết Kiếm",
@@ -980,6 +1004,7 @@
         "winRate": 0.122,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Viktor": [
           "Găng Bảo Thạch",
@@ -1020,6 +1045,7 @@
         "winRate": 0.12,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Leona": [
           "Thú Tượng Thạch Giáp",
@@ -1060,6 +1086,7 @@
         "winRate": 0.117,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_TwistedFate": [
           "Găng Bảo Thạch",
@@ -1095,11 +1122,12 @@
       "playstyle": "A-tier · carry Riven/Jhin",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.536,
-        "top4Rate": 0.461,
-        "winRate": 0.114,
-        "games": 120
+        "avgPlacement": 3.964,
+        "top4Rate": 0.593,
+        "winRate": 0.138,
+        "games": 16
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_Riven": [
           "Huyết Kiếm",
@@ -1135,11 +1163,12 @@
       "playstyle": "A-tier · carry Xayah/Jhin",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.569,
-        "top4Rate": 0.455,
-        "winRate": 0.111,
-        "games": 120
+        "avgPlacement": 3.987,
+        "top4Rate": 0.589,
+        "winRate": 0.136,
+        "games": 16
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_Xayah": [
           "Bùa Đỏ",
@@ -1180,6 +1209,7 @@
         "winRate": 0.108,
         "games": 120
       },
+      "statsSource": "rank",
       "carryItems": {
         "TFT17_Aatrox": [
           "Huyết Kiếm",
@@ -1215,11 +1245,12 @@
       "playstyle": "A-tier · carry Poppy/Rammus",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.634,
-        "top4Rate": 0.443,
-        "winRate": 0.106,
-        "games": 120
+        "avgPlacement": 4.778,
+        "top4Rate": 0.427,
+        "winRate": 0.086,
+        "games": 47
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_Poppy": [
           "Cuồng Đao Guinsoo",
@@ -1255,11 +1286,12 @@
       "playstyle": "A-tier · carry Ezreal/Maokai",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.667,
-        "top4Rate": 0.436,
-        "winRate": 0.103,
-        "games": 120
+        "avgPlacement": 4.52,
+        "top4Rate": 0.468,
+        "winRate": 0.128,
+        "games": 17
       },
+      "statsSource": "blend",
       "carryItems": {
         "TFT17_Ezreal": [
           "Kiếm Tử Thần",
@@ -1295,11 +1327,12 @@
       "playstyle": "A-tier · carry Miss Fortune/Ornn",
       "positioningHint": "",
       "stats": {
-        "avgPlacement": 4.7,
-        "top4Rate": 0.43,
-        "winRate": 0.1,
-        "games": 120
+        "avgPlacement": 4.506,
+        "top4Rate": 0.557,
+        "winRate": 0.038,
+        "games": 41
       },
+      "statsSource": "riot",
       "carryItems": {
         "TFT17_MissFortune": [
           "Bùa Xanh",
